@@ -1,0 +1,16 @@
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\bin\Debug\projectManagement.exe
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\bin\Debug\projectManagement.pdb
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\bin\Debug\MySql.Data.dll
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmLogin.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.MainForm.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.csproj.GenerateResource.Cache
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.exe
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.pdb
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmProjectSubmission.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmProject.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmEmployee.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmCustomer.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmAssign.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmAssigned.resources
+C:\Users\Predator\Documents\SharpDevelop Projects\projectManagement\projectManagement\obj\x86\Debug\projectManagement.FrmRegister.resources
